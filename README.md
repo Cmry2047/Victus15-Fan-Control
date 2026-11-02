@@ -12,10 +12,10 @@ Aplikasi ini hadir sebagai alternatif yang hemat sumber daya (low-resource) diba
 
 ## Fitur
 
-- Koneksi WMI Native HP: Berkomunikasi langsung dengan Embedded Controller (EC) / ACPI BIOS HP untuk beralih mode pendinginan secara aman.
-- Manajemen Mode Kipas: Pengaturan mode kipas cepat (seperti Auto, Quiet, hingga Max Fan Speed) sesuai kebutuhan beban kerja.
-- Pemantauan Real-Time: Menampilkan suhu CPU/GPU serta pembacaan estimasi RPM kipas secara aktual.
-- Ringan & Portabel: Tanpa perlu instalasi rumit (standalone executable), tidak memakan memori RAM secara berlebih.
+- **Koneksi WMI Native HP:** Berkomunikasi langsung dengan Embedded Controller (EC) / ACPI BIOS HP untuk beralih mode pendinginan secara aman.
+- **Manajemen Mode Kipas:** Pengaturan mode kipas cepat (seperti Auto, Quiet, hingga Max Fan Speed) sesuai kebutuhan beban kerja.
+- **Pemantauan Real-Time:** Menampilkan suhu CPU/GPU serta pembacaan estimasi RPM kipas secara aktual.
+- **Ringan & Portabel:** Tanpa perlu instalasi rumit (standalone executable), tidak memakan memori RAM secara berlebih.
 - **Auto** — mengembalikan pengaturan kipas ke kontrol otomatis BIOS.
 - **Quiet** — preset senyap, target sekitar 2.500 RPM.
 - **Balanced** dan **Performance** — preset kecepatan kipas untuk beban sedang dan tinggi.
