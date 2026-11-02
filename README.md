@@ -19,9 +19,10 @@ Angka RPM preset merupakan perkiraan; kecepatan aktual ditentukan firmware dan k
 
 ## Menjalankan aplikasi
 
-1. Buka folder  `Fan Control Victus 15`.
-2. Jalankan `launcher.exe`.
-3. Setujui permintaan hak Administrator (UAC).
+1. Download Releases ZIP file, Lalu ektrak file tersebut.
+2. Buka folder  `Victus 15 Fan Control`.
+3. Jalankan `launcher.exe`.
+4. Setujui permintaan hak Administrator (UAC).
 
 ## Catatan
 
