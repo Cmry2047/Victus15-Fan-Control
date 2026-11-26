@@ -665,7 +665,7 @@ namespace HPVictusFanControl
 
             using (Pen divider = new Pen(Ui.Line, 1f))
                 g.DrawLine(divider, 14, 68, Width - 14, 68);
-            string[] labels = { "CPU PACKAGE", "GPU NVIDIA", "TOTAL LAPTOP (CPU+GPU)" };
+            string[] labels = { "CPU PACKAGE", "GPU NVIDIA", "TOTAL WATTS" };
             string[] values = { cpuPowerText, gpuPowerText, totalPowerText };
             Color[] colors = { Ui.Cyan, Color.FromArgb(118, 185, 0), Ui.Text };
             for (int i = 0; i < labels.Length; i++)
