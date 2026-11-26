@@ -1,0 +1,14 @@
+## Build outputs
+bin/
+obj/
+dist/*.exe
+dist/*.pdb
+dist/.build/
+
+## Windows/IDE files
+.vs/
+*.suo
+*.user
+*.cache
+Thumbs.db
+Desktop.ini
