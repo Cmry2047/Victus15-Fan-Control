@@ -4,11 +4,11 @@ HP Victus 15 Fan Control adalah aplikasi Windows ringan (lightweight) yang diran
 
 Aplikasi ini hadir sebagai alternatif yang hemat sumber daya (low-resource) dibanding OMEN Gaming Hub, memungkinkan kamu mengatur pendinginan sistem secara cepat tanpa beban background process yang berat.
 
-## Preview Aplikasi
+## Tampilan Aplikasi
 
-![Preview aplikasi HP Victus 15 Fan Control](./assets/preview.png)
+![Tampilan terbaru aplikasi HP Victus 15 Fan Control dengan suhu CPU/GPU dan daya CPU, GPU, serta total watt](./assets/preview.png)
 
-![Penggunaan resource aplikasi](./assets/ramusage.png)
+![Penggunaan memori aplikasi di Task Manager Windows](./assets/ramusage.png)
 
 ## Fitur
 
@@ -43,11 +43,6 @@ Pemantauan suhu dan daya GPU memakai `nvidia-smi`, sehingga memerlukan GPU NVIDI
 - `tools/` - launcher tambahan.
 - `build.ps1` - build EXE dengan .NET Framework.
 
-Untuk membangun ulang:
-
-```powershell
-.\build.ps1
-```
 
 ## Catatan
 
